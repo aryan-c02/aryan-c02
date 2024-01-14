@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Aryan Chouhan, a Full Stack Software Developer
+# Hello! 👋 I'm Aryan Chouhan, a Full Stack Software Developer
 
 ## Welcome to my GitHub Profile! 🚀
 
@@ -12,7 +12,7 @@
 - Git, GitHub
 - VSCode, Sublime Text
 
-## 🌱 Currently Learning NextJs,Docker,etc. 
+# 🌱 Currently Learning NextJs,Docker,etc. 
 
 ## 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/aryan-chouhan-395353201
