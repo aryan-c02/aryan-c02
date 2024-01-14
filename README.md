@@ -10,7 +10,10 @@
 - Git, GitHub
 - VSCode, Sublime Text
 
-🌱 Currently Learning NextJs,Docker,etc. 
+## 🌱 Currently Learning 
+-NextJs
+-Docker
+
 
 📫 Let's Connect
 - LinkedIn: www.linkedin.com/in/aryan-chouhan-395353201
