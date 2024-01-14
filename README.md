@@ -11,8 +11,8 @@
 - VSCode, Sublime Text
 
 ## 🌱 Currently Learning 
--NextJs
--Docker
+- NextJs
+- Docker
 
 
 ## 📫 Let's Connect
