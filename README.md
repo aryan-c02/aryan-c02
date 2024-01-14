@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Aryan Chouhan, a Full Stack Software Developer
+** Hello! 👋 I'm Aryan Chouhan, a Full Stack Software Developer **
 
 ## Passionate about creating web applications and solving problems through code. 🌐
 
