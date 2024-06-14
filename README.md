@@ -2,10 +2,10 @@
 
 ## 🔧 Technologies & Tools
 
-- NextJs, ReactJs, JavaScript (ES6+)
+- NextJs, ReactJs, React Native
 - Node.js, Express.js
 - MongoDB
-- Git, GitHub
+- Git, GitHub, Google Play Console
 - VSCode, Sublime Text
 
 ## 📫 Let's Connect
